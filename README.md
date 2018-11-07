@@ -1,6 +1,6 @@
 # Kolak
 
-Kotlin Blog Application, built with [Ktor](https://ktor.io).
+A simple Kotlin blog application built with [Ktor](https://ktor.io).
 
 ## Prerequisite
 
@@ -8,7 +8,8 @@ _Coming soon.._
 
 ## Reference
 
-- [Ktor Website](https://ktor.io/quickstart/guides/website.html)
+- [Ktor Simple Website](https://ktor.io/quickstart/guides/website.html)
+- [Apache FreeMarker Manual](https://freemarker.apache.org/docs/index.html)
 
 ## Copyright and License
 
