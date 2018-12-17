@@ -36,5 +36,6 @@ dependencies {
     compile "io.ktor:ktor-freemarker:$ktor_version"
     compile "io.ktor:ktor-server-host-common:$ktor_version"
     compile "io.ktor:ktor-server-sessions:$ktor_version"
+    compile 'org.litote.kmongo:kmongo:3.9.0'
     testCompile "io.ktor:ktor-server-tests:$ktor_version"
 }
